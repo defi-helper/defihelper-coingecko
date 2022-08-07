@@ -5,8 +5,8 @@
 replicaCount: 1
 
 images:
-  website:
-    name: website
+  app:
+    name: app
     resources:
       requests:
         memory: 64Mi
